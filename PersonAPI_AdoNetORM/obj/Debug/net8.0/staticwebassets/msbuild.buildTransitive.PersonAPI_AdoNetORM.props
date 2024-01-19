@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\PersonAPI_AdoNetORM.props" />
+</Project>

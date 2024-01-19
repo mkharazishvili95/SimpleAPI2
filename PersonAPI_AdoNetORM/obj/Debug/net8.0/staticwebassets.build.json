@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "0aGQJWUD3j7jRWNU8TzYaX9gCy33Us99iRZGGOyMWl4=",
+  "Source": "PersonAPI_AdoNetORM",
+  "BasePath": "_content/PersonAPI_AdoNetORM",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

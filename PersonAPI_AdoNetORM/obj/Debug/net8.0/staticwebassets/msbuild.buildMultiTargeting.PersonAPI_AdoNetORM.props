@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\PersonAPI_AdoNetORM.props" />
+</Project>
